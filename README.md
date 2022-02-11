@@ -68,7 +68,11 @@ Relative length units are relative to something else, perhaps the size of the pa
 
 - [CSS values and units - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 
-- [CSS Multiple Backgrounds - w3schools](https://www.w3schools.com/Css/css3_backgrounds.asp) - In this chapter you will learn how to add multiple background images to one element.
+**CSS Multiple Backgrounds**
+
+In this chapter you will learn how to add multiple background images to one element.
+
+- [CSS Multiple Backgrounds - w3schools](https://www.w3schools.com/Css/css3_backgrounds.asp) 
 
 
 
