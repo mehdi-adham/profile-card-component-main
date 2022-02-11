@@ -48,10 +48,14 @@ I use multiple background images for body element.
 
 ```css
 body{
+    font-size: var(--name-stats-font-size);
+    font-family: var(--Kumbh-Sans-font);
+    background-color: var(--Dark-cyan);
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
-    background-position: top -400px left -150px, bottom -515px right -125px;
-    background-size: 800px auto, 800px auto;
+    background-position: bottom 35vh right 50vw, top 50vh left 50vw;
+    /*background-position: top 50vh left 10vw, bottom -515px right -125px;*/
+    /*background-size: 800px auto, 800px auto;*/
 }
 ```
 
