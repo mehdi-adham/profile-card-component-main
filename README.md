@@ -62,7 +62,14 @@ body{
 
 ### Useful resources
 
+**Relative length units:**
+
+Relative length units are relative to something else, perhaps the size of the parent element's font, or the size of the viewport. The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scales relative to everything else on the page.
+
+[CSS values and units - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+
 - [CSS Multiple Backgrounds - w3schools](https://www.w3schools.com/Css/css3_backgrounds.asp) - In this chapter you will learn how to add multiple background images to one element.
+
 
 
 ## Author
