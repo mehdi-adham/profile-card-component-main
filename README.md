@@ -58,8 +58,7 @@ body{
 
 ### Useful resources
 
-- [CSS Multiple Backgrounds
- - w3schools](https://www.w3schools.com/Css/css3_backgrounds.asp) - In this chapter you will learn how to add multiple background images to one element.
+- [CSS Multiple Backgrounds - w3schools](https://www.w3schools.com/Css/css3_backgrounds.asp) - In this chapter you will learn how to add multiple background images to one element.
 
 
 ## Author
