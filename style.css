@@ -20,8 +20,8 @@ body{
     background-color: var(--Dark-cyan);
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
-    background-position: -100% 100% ,100% -100% ;
-    
+    background-position: top -400px left -150px, bottom -515px right -125px;
+    background-size: 800px auto, 800px auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,7 +29,7 @@ body{
 }
 
 .profile-card{
-    z-index: 10;
+    margin: 12px;
     width: 350px;
     border-radius: 15px;
     background: white;
@@ -88,3 +88,11 @@ body{
     letter-spacing: 0;
 }
 
+@media screen and (max-width:480px) {
+    body{
+        background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+        background-repeat: no-repeat, no-repeat;
+        background-position: top -450px left -600px, bottom -480px right -550px;
+        background-size: 800px auto, 800px auto;
+    }
+}
